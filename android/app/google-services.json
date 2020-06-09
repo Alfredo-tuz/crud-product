@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105689469662",
+    "firebase_url": "https://pettauro-ce7d6.firebaseio.com",
+    "project_id": "pettauro-ce7d6",
+    "storage_bucket": "pettauro-ce7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105689469662:android:60445af9178833e3b9e84f",
+        "android_client_info": {
+          "package_name": "com.example.project_erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105689469662-r4kfdt14d6a0iq5ni3vqqon1g270ssro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjVV1KWKVTXepOTWp8nJ8UDTXORcBOI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105689469662-r4kfdt14d6a0iq5ni3vqqon1g270ssro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
